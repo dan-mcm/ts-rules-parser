@@ -1,0 +1,12 @@
+{
+  "name": "ts-rules-parser",
+  "version": "0.0.1",
+  "description": "Parsing & Translating TS rules.ini files to JSON for site rendering",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel \"Danku\" McMahon",
+  "license": "ISC"
+}
